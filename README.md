@@ -16,6 +16,8 @@ To run Selenium scraper, you need a driver for Chrome. The driver must be compat
 
 `python engadget_selenium_scraper.py`
 
+I uploaded two Selenium files. "Engadget_selenium_scraper_new.py" works in a new version Selenium.( June 2022 version)
+
 To run Scrapy scraper, you need a scrapy binary. Spider itself can be run self-contained:
 
 `scrapy runspider engadget_scrapy_scraper.py`
